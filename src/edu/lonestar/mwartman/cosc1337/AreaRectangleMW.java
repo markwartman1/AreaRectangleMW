@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
  * Calculates the area of a rectangle from user input of width & length dimensions.
  *
  */
-public class AreaRectangleXY {
+public class AreaRectangleMW {
    /**
     * Gets a positive number input from the user.
     * 
