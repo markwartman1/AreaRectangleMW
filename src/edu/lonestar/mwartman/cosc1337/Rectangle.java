@@ -28,7 +28,7 @@ public class Rectangle
 	
 	public double getArea()
 	{
-		return .5 * (width * length);
+		return  (width * length);
 	}
 	
 	@Override
